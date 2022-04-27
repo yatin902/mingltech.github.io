@@ -1,4 +1,5 @@
-![This is an image](https://github.com/yatin902/test/blob/main/bloxmove_colour.png)
+<img src="https://github.com/yatin902/test/blob/main/bloxmove_colour.png" />
+
 # Available Pages
  - Architecture Overview
    1. [Core mechanisms](https://github.com/yatin902/test/blob/main/Markdown/Technical%20Documentation/Architecture%20Overview/Core-mechanisms_1593933450.md)
