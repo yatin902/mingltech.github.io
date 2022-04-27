@@ -1,4 +1,4 @@
-<img src="https://github.com/yatin902/test/blob/main/bloxmove_colour.png" />
+<img src="https://raw.githubusercontent.com/yatin902/test/main/bloxmove_colour.png" />
 
 # Available Pages
  - Architecture Overview
