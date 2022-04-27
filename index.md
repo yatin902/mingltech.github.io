@@ -14,4 +14,4 @@
    10. [Usage of Verifiable Credentials](README11.md)
    11. [Universal Asset Service](README12.md)
    12. [Vehicle Integration and Management](README13.md)
-   13. [bloXmove Protocol Integration Scenarios](README14.md)
+   13. [bloXmove Protocol Integration Scenarios](test.md)
